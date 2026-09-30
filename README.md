@@ -3,6 +3,5 @@
 * numpy 
 * matplotlib 
 * pandas 
-* seaborn 
 * Pickle
 * joblib
