@@ -4,6 +4,5 @@ The goal of the project is to predict house prices in a region in Taiwan. The R^
 * numpy 
 * matplotlib 
 * pandas 
-* seaborn 
 * Pickle
 * joblib
